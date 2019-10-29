@@ -3,7 +3,7 @@
 FS-Cache is a persistent local cache that can be used by file systems to take data retrieved from over the network and cache it on local disk. This helps minimize network traffic for users accessing data from a file system mounted over the network (for example, NFS).    
 
 <img src=https://github.com/schoenemeyer/IO-caching-with-FS-Cache/blob/master/pictures/fs-cache.png width="352">
-For more details refer to      
+For more details refer to             
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-fscache
 
 
